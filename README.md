@@ -32,3 +32,9 @@
 
 
 ----------------------------------------------------------------------
+框图
+https://github.com/Alexislilei/IRTOOL/blob/main/block-diagram-v0.1.png
+
+----------------------------------------------------------------------
+基本功能订购清单
+https://github.com/Alexislilei/IRTOOL/blob/main/order%20list%20for%20basic%20function.pdf
