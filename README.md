@@ -1,5 +1,5 @@
 # IRTOOL
- To help engineers get the code of a IR remote. It will have more advance features after basic function
+ 此工具可以帮助测试工程师快速查看遥控器的按键编码信息，在测试电视软件时捕获、显示遥控器按键动作；中级功能增加1000个记录存储功能、串口连接和简单红外发射功能；高级功能存储空间更大，遥控动作可以同电视机串口打印相关联以及实现简单压测的自动测试。
 
 ---------------------------------------------------
  红外遥控码检测装置
